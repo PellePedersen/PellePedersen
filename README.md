@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PellePedersen
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning code
+- 📫 How to reach me: https://www.linkedin.com/in/pelle-pedersen/
+- ⚡ Fun fact: I am learning how to code, 16/07/2024
